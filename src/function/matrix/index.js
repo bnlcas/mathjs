@@ -14,6 +14,7 @@ module.exports = [
   require('./identity'),
   require('./inv'),
   require('./kron'),
+  require('./linspace'),
   require('./map'),
   require('./ones'),
   require('./partitionSelect'),
